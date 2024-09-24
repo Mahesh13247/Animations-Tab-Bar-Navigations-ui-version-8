@@ -12,7 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #282a36;
+  background: #000000;
 }
 
 .navigation {
@@ -22,8 +22,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #333;
-  border-radius: 10px;
+  background: #3e3e3e;
+  border-radius: 30px;
 }
 
 .navigation ul {
@@ -61,7 +61,7 @@ body {
 }
 
 .navigation ul li:hover a .icon {
-  color: rgba(255, 255, 255, 1);
+  color: rgb(0, 255, 85);
 }
 
 .navigation ul li.active a .icon {
