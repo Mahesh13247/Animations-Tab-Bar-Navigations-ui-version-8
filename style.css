@@ -72,8 +72,8 @@ body {
 .navigation ul li a .text {
   position: absolute;
   opacity: 0;
-  font-weight: 600;
-  font-size: 0.5em;
+  font-weight: 800;
+  font-size: 0.6em;
   color: #222327;
   transition: 0.5s;
   letter-spacing: 0.05em;
